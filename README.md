@@ -1,2 +1,3 @@
 # project-1
-dfh
+student acadeic managment system
+
